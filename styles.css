@@ -719,6 +719,7 @@ ul li .descr {
 
 h7{
   font-family: 'Exo 2', sans-serif;
+  font-weight: bold;
 }
 
 #container1{
@@ -806,7 +807,7 @@ h7{
   font-family: 'Exo 2', sans-serif;
   text-align: justify;
   margin: 0 auto;
-  font-size: 32px;
+  font-size: 25px;
   margin-top: 25px;
 }
 /* CONTENEDOR FOOTER ---------------------------------------------------------- */

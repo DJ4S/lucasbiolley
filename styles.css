@@ -818,6 +818,7 @@ h7{
   margin: 0 auto;
   font-size: 16px;
 }
+}
 
 @media(max-width: 500px){
 .texto_project{
@@ -826,6 +827,7 @@ h7{
   margin: 0 auto;
   font-size: 0px;
   color:  #2d6a4f;
+}
 }
   
 /* CONTENEDOR FOOTER ---------------------------------------------------------- */

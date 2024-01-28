@@ -728,7 +728,7 @@ h7{
   margin: 0 auto;
   grid-template-columns: 80%;
   grid-column-gap: 50px;
-  justify-content: space-between;;
+  justify-content: center;
   margin-bottom: 50px;
   margin-top: 50px;
   height: 200px;
@@ -742,7 +742,7 @@ h7{
   margin: 0 auto;
   grid-template-columns: 80%;
   grid-column-gap: 50px;
-  justify-content: space-between;;
+  justify-content: center;
   margin-bottom: 50px;
   height: 200px;
   transition: 300ms;
@@ -755,7 +755,7 @@ h7{
   margin: 0 auto;
   grid-template-columns: 80%;
   grid-column-gap: 50px;
-  justify-content: space-between;;
+  justify-content: center;
   margin-bottom: 50px;
   height: 200px;
   transition: 300ms;
@@ -768,7 +768,7 @@ h7{
   margin: 0 auto;
   grid-template-columns: 80%;
   grid-column-gap: 50px;
-  justify-content: space-between;;
+  justify-content: center;
   margin-bottom: 50px;
   height: 200px;
   transition: 300ms;

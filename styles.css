@@ -793,6 +793,15 @@ h7{
   transition: 0.7s ease-in-out;
 }
 
+.link_project{
+  text-decoration: none;
+}
+
+.texto_project{
+  font-family: 'Exo 2', sans-serif;
+  text-align: justify;
+  margin: 0 auto;
+}
 /* CONTENEDOR FOOTER ---------------------------------------------------------- */
 
 footer {

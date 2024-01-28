@@ -739,7 +739,7 @@ h7{
   grid-template-columns: 80%;
   grid-column-gap: 50px;
   justify-content: center;
-  margin-bottom: 100px;
+  margin-bottom: 50px;
   height: 200px;
   transition: 300ms;
 }

@@ -732,6 +732,7 @@ h7{
   margin-top: 50px;
   height: 200px;
   transition: 300ms;
+  padding: 20px;
 }
 
 #container2{
@@ -744,6 +745,7 @@ h7{
   margin-bottom: 50px;
   height: 200px;
   transition: 300ms;
+  padding: 20px;
 }
 
 #container3{
@@ -756,6 +758,7 @@ h7{
   margin-bottom: 50px;
   height: 200px;
   transition: 300ms;
+  padding: 20px;
 }
 
 #container4{
@@ -768,6 +771,7 @@ h7{
   margin-bottom: 50px;
   height: 200px;
   transition: 300ms;
+  padding: 20px;
 }
 
 .caja{
@@ -795,12 +799,14 @@ h7{
 
 .link_project{
   text-decoration: none;
+  color: black;
 }
 
 .texto_project{
   font-family: 'Exo 2', sans-serif;
   text-align: justify;
   margin: 0 auto;
+  font-size: 16px;
 }
 /* CONTENEDOR FOOTER ---------------------------------------------------------- */
 

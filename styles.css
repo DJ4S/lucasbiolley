@@ -724,11 +724,11 @@ h7{
 
 #container1{
   display: grid;
-  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   grid-template-columns: 80%;
   grid-column-gap: 50px;
-  justify-content: center;
+  justify-content: space-between;;
   margin-bottom: 50px;
   margin-top: 50px;
   height: 200px;
@@ -738,11 +738,11 @@ h7{
 
 #container2{
   display: grid;
-  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   grid-template-columns: 80%;
   grid-column-gap: 50px;
-  justify-content: center;
+  justify-content: space-between;;
   margin-bottom: 50px;
   height: 200px;
   transition: 300ms;
@@ -751,11 +751,11 @@ h7{
 
 #container3{
   display: grid;
-  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   grid-template-columns: 80%;
   grid-column-gap: 50px;
-  justify-content: center;
+  justify-content: space-between;;
   margin-bottom: 50px;
   height: 200px;
   transition: 300ms;
@@ -764,11 +764,11 @@ h7{
 
 #container4{
   display: grid;
-  width: 100%;
+  max-width: 100%;
   margin: 0 auto;
   grid-template-columns: 80%;
   grid-column-gap: 50px;
-  justify-content: center;
+  justify-content: space-between;;
   margin-bottom: 50px;
   height: 200px;
   transition: 300ms;
@@ -817,10 +817,6 @@ h7{
   text-align: justify;
   margin: 0 auto;
   font-size: 16px;
-}
-  #contenedor_projects > h2{
-  font-family: 'Exo 2', sans-serif;
-  margin-left: 0%;
 }
 }
 

@@ -811,7 +811,7 @@ h7{
   margin-top: 20px;
 }
 
-@media only screen and (max-width: 700px) {
+@media(max-width: 700px){
 .texto_project{
   font-family: 'Exo 2', sans-serif;
   text-align: justify;
@@ -819,7 +819,7 @@ h7{
   font-size: 16px;
 }
 
-@media only screen and (max-width: 500px) {
+@media(max-width: 500px){
 .texto_project{
   font-family: 'Exo 2', sans-serif;
   text-align: justify;
@@ -913,13 +913,4 @@ footer > img{
   }
 }
 
-@media(max-width: 800px){
 
-// IMAGEN CENTRADA
-//TEXTO DEBAJO
-//GALERIA DOS RONDA DE DOS
-//EXPERIENCIA, SOLO PARA UN LADO
-//PROYECTO IGUAL
-
-
-}

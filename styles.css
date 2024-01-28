@@ -810,6 +810,24 @@ h7{
   font-size: 20px;
   margin-top: 20px;
 }
+
+@media only screen and (max-width: 700px) {
+.texto_project{
+  font-family: 'Exo 2', sans-serif;
+  text-align: justify;
+  margin: 0 auto;
+  font-size: 16px;
+}
+
+@media only screen and (max-width: 500px) {
+.texto_project{
+  font-family: 'Exo 2', sans-serif;
+  text-align: justify;
+  margin: 0 auto;
+  font-size: 0px;
+  color:  #2d6a4f;
+}
+  
 /* CONTENEDOR FOOTER ---------------------------------------------------------- */
 
 footer {
